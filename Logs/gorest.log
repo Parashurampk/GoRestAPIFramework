@@ -432,3 +432,853 @@
 
 15:19:36[main] INFO  gorest - All data is being logged in log file
 
+16:24:36[main] INFO  gorest - TestName: testPostRequest
+16:24:36[main] INFO  gorest - Author Name: Parashuram
+16:24:42[main] INFO  gorest - *****testPostRequest-- data saved in gorest.log  *****
+
+16:24:42[main] INFO  gorest - {
+    "id": 6127926,
+    "name": "Elida Dicki MD",
+    "email": "darrell.wuckert@yahoo.com",
+    "gender": "male",
+    "status": "inactive"
+}
+16:24:42[main] INFO  gorest - Test Case: testPostRequest is passed.
+
+16:24:42[main] INFO  gorest - TestName: testGetRequest
+16:24:42[main] INFO  gorest - Author Name: Parashuram
+16:24:43[main] INFO  gorest - *****testGetRequest User Details Saved to gorest.log *****
+
+16:24:43[main] INFO  gorest - [
+    {
+        "id": 6006982,
+        "name": "Sarada Verma",
+        "email": "verma_sarada@bayer.example",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 6006979,
+        "name": "Kama Asan",
+        "email": "asan_kama@cummings.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 6006978,
+        "name": "Bhooshan Tagore",
+        "email": "tagore_bhooshan@mccullough-lesch.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 6006975,
+        "name": "Anjushri Chopra",
+        "email": "anjushri_chopra@turcotte.test",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 6006974,
+        "name": "Himadri Varma",
+        "email": "himadri_varma@gutkowski.example",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 6006973,
+        "name": "Ujjawal Rana",
+        "email": "ujjawal_rana@koch.test",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 6006972,
+        "name": "Mrs. Durgeshwari Ahuja",
+        "email": "mrs_durgeshwari_ahuja@bergstrom-okon.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 6006971,
+        "name": "Anasooya Abbott",
+        "email": "abbott_anasooya@hackett-streich.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 6006970,
+        "name": "Dwaipayana Desai III",
+        "email": "desai_dwaipayana_iii@turcotte-maggio.example",
+        "gender": "male",
+        "status": "inactive"
+    },
+    {
+        "id": 6006969,
+        "name": "Pres. Sanka Johar",
+        "email": "pres_sanka_johar@purdy.test",
+        "gender": "male",
+        "status": "inactive"
+    }
+]
+16:24:43[main] INFO  gorest - Test Case: testGetRequest is passed.
+
+16:24:43[main] INFO  gorest - TestName: testPatchRequest
+16:24:43[main] INFO  gorest - Author Name: Parashuram
+16:24:43[main] INFO  gorest - *****testPatchRequest-- data saved in gorest.log  *****
+
+16:24:43[main] INFO  gorest - {
+    "email": "cheryll.fisher@gmail.com",
+    "name": "Elida Dicki MD",
+    "gender": "male",
+    "status": "active",
+    "id": 6127926
+}
+16:24:43[main] INFO  gorest - Test Case: testPatchRequest is passed.
+
+16:24:43[main] INFO  gorest - TestName: testDeleteRequest
+16:24:43[main] INFO  gorest - Author Name: Parashuram
+16:24:43[main] INFO  gorest - *****testDeleteRequest-- data saved in gorest.log  *****
+
+16:24:43[main] INFO  gorest - 
+16:24:43[main] INFO  gorest - Test Case: testDeleteRequest is passed.
+
+16:24:43[main] INFO  gorest - All data is being logged in log file
+
+16:25:38[main] INFO  gorest - TestName: testPostRequest
+16:25:38[main] INFO  gorest - Author Name: Parashuram
+16:25:42[main] INFO  gorest - *****testPostRequest-- data saved in gorest.log  *****
+
+16:25:42[main] INFO  gorest - {
+    "id": 6127942,
+    "name": "Myron Rau",
+    "email": "erwin.effertz@hotmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+16:25:42[main] INFO  gorest - Test Case: testPostRequest is passed.
+
+16:25:42[main] INFO  gorest - TestName: testGetRequest
+16:25:42[main] INFO  gorest - Author Name: Parashuram
+16:25:42[main] INFO  gorest - *****testGetRequest User Details Saved to gorest.log *****
+
+16:25:42[main] INFO  gorest - [
+    {
+        "id": 6006982,
+        "name": "Sarada Verma",
+        "email": "verma_sarada@bayer.example",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 6006979,
+        "name": "Kama Asan",
+        "email": "asan_kama@cummings.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 6006978,
+        "name": "Bhooshan Tagore",
+        "email": "tagore_bhooshan@mccullough-lesch.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 6006975,
+        "name": "Anjushri Chopra",
+        "email": "anjushri_chopra@turcotte.test",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 6006974,
+        "name": "Himadri Varma",
+        "email": "himadri_varma@gutkowski.example",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 6006973,
+        "name": "Ujjawal Rana",
+        "email": "ujjawal_rana@koch.test",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 6006972,
+        "name": "Mrs. Durgeshwari Ahuja",
+        "email": "mrs_durgeshwari_ahuja@bergstrom-okon.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 6006971,
+        "name": "Anasooya Abbott",
+        "email": "abbott_anasooya@hackett-streich.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 6006970,
+        "name": "Dwaipayana Desai III",
+        "email": "desai_dwaipayana_iii@turcotte-maggio.example",
+        "gender": "male",
+        "status": "inactive"
+    },
+    {
+        "id": 6006969,
+        "name": "Pres. Sanka Johar",
+        "email": "pres_sanka_johar@purdy.test",
+        "gender": "male",
+        "status": "inactive"
+    }
+]
+16:25:42[main] INFO  gorest - Test Case: testGetRequest is passed.
+
+16:25:42[main] INFO  gorest - TestName: testPatchRequest
+16:25:42[main] INFO  gorest - Author Name: Parashuram
+16:25:43[main] INFO  gorest - *****testPatchRequest-- data saved in gorest.log  *****
+
+16:25:43[main] INFO  gorest - {
+    "email": "jamie.lindgren@hotmail.com",
+    "name": "Myron Rau",
+    "gender": "male",
+    "status": "active",
+    "id": 6127942
+}
+16:25:43[main] INFO  gorest - Test Case: testPatchRequest is passed.
+
+16:25:43[main] INFO  gorest - TestName: testDeleteRequest
+16:25:43[main] INFO  gorest - Author Name: Parashuram
+16:25:43[main] INFO  gorest - *****testDeleteRequest-- data saved in gorest.log  *****
+
+16:25:43[main] INFO  gorest - 
+16:25:43[main] INFO  gorest - Test Case: testDeleteRequest is passed.
+
+16:25:43[main] INFO  gorest - All data is being logged in log file
+
+16:35:46[main] INFO  User - *****testGetRequest User Details Saved to gorest.log *****
+
+16:35:46[main] INFO  User - <html>
+  <head>
+    <title>404 Not Found</title>
+  </head>
+  <body>
+    <center>
+      <h1>404 Not Found</h1>
+    </center>
+    <hr/>
+    <center>nginx</center>
+  </body>
+</html>
+16:37:19[main] INFO  gorest - TestName: testPostRequest
+16:37:19[main] INFO  gorest - Author Name: Parashuram
+16:37:23[main] INFO  gorest - *****testPostRequest-- data saved in gorest.log  *****
+
+16:37:23[main] INFO  gorest - {
+    "id": 6128123,
+    "name": "Gertude Becker",
+    "email": "serina.hilpert@yahoo.com",
+    "gender": "male",
+    "status": "inactive"
+}
+16:37:23[main] INFO  gorest - Test Case: testPostRequest is passed.
+
+16:37:23[main] INFO  gorest - TestName: testGetRequest
+16:37:23[main] INFO  gorest - Author Name: Parashuram
+16:37:23[main] INFO  gorest - *****testGetRequest User Details Saved to gorest.log *****
+
+16:37:23[main] INFO  gorest - [
+    {
+        "id": 6006982,
+        "name": "Sarada Verma",
+        "email": "verma_sarada@bayer.example",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 6006979,
+        "name": "Kama Asan",
+        "email": "asan_kama@cummings.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 6006978,
+        "name": "Bhooshan Tagore",
+        "email": "tagore_bhooshan@mccullough-lesch.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 6006975,
+        "name": "Anjushri Chopra",
+        "email": "anjushri_chopra@turcotte.test",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 6006974,
+        "name": "Himadri Varma",
+        "email": "himadri_varma@gutkowski.example",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 6006973,
+        "name": "Ujjawal Rana",
+        "email": "ujjawal_rana@koch.test",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 6006972,
+        "name": "Mrs. Durgeshwari Ahuja",
+        "email": "mrs_durgeshwari_ahuja@bergstrom-okon.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 6006971,
+        "name": "Anasooya Abbott",
+        "email": "abbott_anasooya@hackett-streich.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 6006970,
+        "name": "Dwaipayana Desai III",
+        "email": "desai_dwaipayana_iii@turcotte-maggio.example",
+        "gender": "male",
+        "status": "inactive"
+    },
+    {
+        "id": 6006969,
+        "name": "Pres. Sanka Johar",
+        "email": "pres_sanka_johar@purdy.test",
+        "gender": "male",
+        "status": "inactive"
+    }
+]
+16:37:23[main] INFO  gorest - Test Case: testGetRequest is passed.
+
+16:37:23[main] INFO  gorest - TestName: testPatchRequest
+16:37:23[main] INFO  gorest - Author Name: Parashuram
+16:37:23[main] INFO  gorest - *****testPatchRequest-- data saved in gorest.log  *****
+
+16:37:23[main] INFO  gorest - {
+    "email": "bryon.gusikowski@gmail.com",
+    "name": "Gertude Becker",
+    "gender": "male",
+    "status": "active",
+    "id": 6128123
+}
+16:37:23[main] INFO  gorest - Test Case: testPatchRequest is passed.
+
+16:37:23[main] INFO  gorest - TestName: testDeleteRequest
+16:37:23[main] INFO  gorest - Author Name: Parashuram
+16:37:24[main] INFO  gorest - *****testDeleteRequest-- data saved in gorest.log  *****
+
+16:37:24[main] INFO  gorest - 
+16:37:24[main] INFO  gorest - Test Case: testDeleteRequest is passed.
+
+16:37:24[main] INFO  gorest - TestName: testGetRequest
+16:37:24[main] INFO  gorest - Author Name: Parashuram
+16:37:25[main] INFO  User - *****testGetRequest User Details Saved to gorest.log *****
+
+16:37:25[main] INFO  User - <html>
+  <head>
+    <title>404 Not Found</title>
+  </head>
+  <body>
+    <center>
+      <h1>404 Not Found</h1>
+    </center>
+    <hr/>
+    <center>nginx</center>
+  </body>
+</html>
+16:37:25[main] INFO  gorest - Test Case: testGetRequest is passed.
+
+16:37:25[main] INFO  gorest - All data is being logged in log file
+
+16:54:56[main] INFO  gorest - TestName: testPostRequest
+16:54:56[main] INFO  gorest - Author Name: Parashuram
+16:55:01[main] INFO  gorest - io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document
+16:55:01[main] INFO  gorest - Test Case: testPostRequest is failed.
+
+16:55:01[main] INFO  gorest - TestName: testGetRequest
+16:55:01[main] INFO  gorest - Author Name: Parashuram
+16:55:02[main] INFO  User - *****testGetRequest User Details Saved to gorest.log *****
+
+16:55:02[main] INFO  User - <html>
+  <head>
+    <title>404 Not Found</title>
+  </head>
+  <body>
+    <center>
+      <h1>404 Not Found</h1>
+    </center>
+    <hr/>
+    <center>nginx</center>
+  </body>
+</html>
+16:55:02[main] INFO  gorest - Test Case: testGetRequest is passed.
+
+16:55:02[main] INFO  gorest - TestName: testPatchRequest
+16:55:02[main] INFO  gorest - Author Name: Parashuram
+16:55:02[main] INFO  gorest - java.lang.IllegalArgumentException: Path parameters were not correctly defined. Redundant path parameters are: id=6128123. Undefined path parameters are: username.
+16:55:02[main] INFO  gorest - Test Case: testPatchRequest is failed.
+
+16:55:02[main] INFO  gorest - TestName: testDeleteRequest
+16:55:02[main] INFO  gorest - Author Name: Parashuram
+16:55:02[main] INFO  gorest - java.lang.IllegalArgumentException: Path parameters were not correctly defined. Redundant path parameters are: id=6128123. Undefined path parameters are: username.
+16:55:02[main] INFO  gorest - Test Case: testDeleteRequest is failed.
+
+16:55:02[main] INFO  gorest - All data is being logged in log file
+
+16:56:53[main] INFO  gorest - TestName: testPostRequest
+16:56:53[main] INFO  gorest - Author Name: Parashuram
+16:56:59[main] INFO  gorest - java.lang.NullPointerException: Cannot invoke "String.toString()" because the return value of "io.restassured.path.json.JsonPath.getString(String)" is null
+16:56:59[main] INFO  gorest - Test Case: testPostRequest is failed.
+
+16:56:59[main] INFO  gorest - TestName: testGetRequest
+16:56:59[main] INFO  gorest - Author Name: Parashuram
+16:56:59[main] INFO  gorest - java.lang.IllegalArgumentException: Invalid number of path parameters. Expected 1, was 0. Undefined path parameters are: username.
+16:56:59[main] INFO  gorest - Test Case: testGetRequest is failed.
+
+16:56:59[main] INFO  gorest - TestName: testPatchRequest
+16:56:59[main] INFO  gorest - Author Name: Parashuram
+16:56:59[main] INFO  gorest - java.lang.IllegalArgumentException: Path parameters were not correctly defined. Redundant path parameters are: id=6128123. Undefined path parameters are: username.
+16:56:59[main] INFO  gorest - Test Case: testPatchRequest is failed.
+
+16:56:59[main] INFO  gorest - TestName: testDeleteRequest
+16:56:59[main] INFO  gorest - Author Name: Parashuram
+16:56:59[main] INFO  gorest - java.lang.IllegalArgumentException: Path parameters were not correctly defined. Redundant path parameters are: id=6128123. Undefined path parameters are: username.
+16:56:59[main] INFO  gorest - Test Case: testDeleteRequest is failed.
+
+16:56:59[main] INFO  gorest - All data is being logged in log file
+
+16:58:24[main] INFO  gorest - TestName: testPostRequest
+16:58:24[main] INFO  gorest - Author Name: Parashuram
+16:58:28[main] INFO  gorest - java.lang.NullPointerException: Cannot invoke "String.toString()" because the return value of "io.restassured.path.json.JsonPath.getString(String)" is null
+16:58:28[main] INFO  gorest - Test Case: testPostRequest is failed.
+
+16:58:28[main] INFO  gorest - TestName: testGetRequest
+16:58:28[main] INFO  gorest - Author Name: Parashuram
+16:58:28[main] INFO  gorest - java.lang.IllegalArgumentException: Invalid number of path parameters. Expected 1, was 0. Undefined path parameters are: username.
+16:58:28[main] INFO  gorest - Test Case: testGetRequest is failed.
+
+16:58:28[main] INFO  gorest - TestName: testPatchRequest
+16:58:28[main] INFO  gorest - Author Name: Parashuram
+16:58:28[main] INFO  gorest - java.lang.IllegalArgumentException: Path parameters were not correctly defined. Redundant path parameters are: id=6128123. Undefined path parameters are: username.
+16:58:28[main] INFO  gorest - Test Case: testPatchRequest is failed.
+
+16:58:28[main] INFO  gorest - TestName: testDeleteRequest
+16:58:28[main] INFO  gorest - Author Name: Parashuram
+16:58:28[main] INFO  gorest - java.lang.IllegalArgumentException: Path parameters were not correctly defined. Redundant path parameters are: id=6128123. Undefined path parameters are: username.
+16:58:28[main] INFO  gorest - Test Case: testDeleteRequest is failed.
+
+16:58:28[main] INFO  gorest - All data is being logged in log file
+
+17:04:11[main] INFO  gorest - *****testPostRequest-- data saved in gorest.log  *****
+
+17:04:11[main] INFO  gorest - {
+    "id": 6128513,
+    "name": "Carmelo Farrell",
+    "email": "maryetta.harris@gmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+17:04:11[main] INFO  gorest - *****testGetRequest User Details Saved to gorest.log *****
+
+17:04:11[main] INFO  gorest - [
+    {
+        "id": 6006978,
+        "name": "Bhooshan Tagore",
+        "email": "tagore_bhooshan@mccullough-lesch.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 6006973,
+        "name": "Ujjawal Rana",
+        "email": "ujjawal_rana@koch.test",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 6006972,
+        "name": "Mrs. Durgeshwari Ahuja",
+        "email": "mrs_durgeshwari_ahuja@bergstrom-okon.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 6006968,
+        "name": "Ms. Achintya Khan",
+        "email": "achintya_ms_khan@fahey.test",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 6006967,
+        "name": "Kartik Dhawan",
+        "email": "kartik_dhawan@schiller.test",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "id": 5974977,
+        "name": "Dr. Chandra Nayar",
+        "email": "dr_nayar_chandra@rau.example",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "id": 5974972,
+        "name": "Devajyoti Achari Sr.",
+        "email": "sr_devajyoti_achari@homenick.example",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "id": 5974971,
+        "name": "Yogendra Verma",
+        "email": "verma_yogendra@mosciski.example",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "id": 5974967,
+        "name": "Prof. Anasuya Acharya",
+        "email": "anasuya_prof_acharya@bergstrom-fay.example",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 5974964,
+        "name": "Rev. Sumitra Asan",
+        "email": "asan_rev_sumitra@hermiston.test",
+        "gender": "male",
+        "status": "active"
+    }
+]
+17:04:12[main] INFO  gorest - *****testPatchRequest-- data saved in gorest.log  *****
+
+17:04:12[main] INFO  gorest - {
+    "email": "bernardina.senger@yahoo.com",
+    "name": "Carmelo Farrell",
+    "gender": "male",
+    "status": "active",
+    "id": 6128513
+}
+17:04:12[main] INFO  gorest - *****testDeleteRequest-- data saved in gorest.log  *****
+
+17:04:12[main] INFO  gorest - 
+17:21:40[main] INFO  gorest - *****testPostRequest-- data saved in gorest.log  *****
+
+17:21:40[main] INFO  gorest - {
+    "id": 6128760,
+    "name": "Brigid Stoltenberg",
+    "email": "lue.wisoky@hotmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+17:21:40[main] INFO  gorest - Test Case: testPostRequest is passed.
+
+17:21:40[main] INFO  gorest - *****testGetRequest User Details Saved to gorest.log *****
+
+17:21:40[main] INFO  gorest - [
+    {
+        "id": 6006973,
+        "name": "Ujjawal Rana",
+        "email": "ujjawal_rana@koch.test",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 6006972,
+        "name": "Mrs. Durgeshwari Ahuja",
+        "email": "mrs_durgeshwari_ahuja@bergstrom-okon.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 6006968,
+        "name": "Ms. Achintya Khan",
+        "email": "achintya_ms_khan@fahey.test",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 5974977,
+        "name": "Dr. Chandra Nayar",
+        "email": "dr_nayar_chandra@rau.example",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "id": 5974972,
+        "name": "Devajyoti Achari Sr.",
+        "email": "sr_devajyoti_achari@homenick.example",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "id": 5974971,
+        "name": "Yogendra Verma",
+        "email": "verma_yogendra@mosciski.example",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "id": 5974967,
+        "name": "Prof. Anasuya Acharya",
+        "email": "anasuya_prof_acharya@bergstrom-fay.example",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 5974964,
+        "name": "Rev. Sumitra Asan",
+        "email": "asan_rev_sumitra@hermiston.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 5974963,
+        "name": "Akshainie Adiga",
+        "email": "akshainie_adiga@bradtke.test",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 5974962,
+        "name": "Anjushri Gupta",
+        "email": "anjushri_gupta@glover.test",
+        "gender": "male",
+        "status": "active"
+    }
+]
+17:21:40[main] INFO  gorest - Test Case: testGetRequest is passed.
+
+17:21:41[main] INFO  gorest - *****testPatchRequest-- data saved in gorest.log  *****
+
+17:21:41[main] INFO  gorest - {
+    "email": "lionel.hagenes@gmail.com",
+    "name": "Brigid Stoltenberg",
+    "gender": "male",
+    "status": "active",
+    "id": 6128760
+}
+17:21:41[main] INFO  gorest - Test Case: testPatchRequest is passed.
+
+17:21:41[main] INFO  gorest - *****testDeleteRequest-- data saved in gorest.log  *****
+
+17:21:41[main] INFO  gorest - 
+17:21:41[main] INFO  gorest - Test Case: testDeleteRequest is passed.
+
+17:21:41[main] INFO  gorest - All data is being logged in log file
+
+17:23:28[main] INFO  gorest - *****testPostRequest-- data saved in gorest.log  *****
+
+17:23:28[main] INFO  gorest - {
+    "id": 6128791,
+    "name": "Deidra Schamberger",
+    "email": "katie.hudson@hotmail.com",
+    "gender": "male",
+    "status": "inactive"
+}
+17:23:28[main] INFO  gorest - Test Case: testPostRequest is passed.
+
+17:23:28[main] INFO  gorest - *****testGetRequest User Details Saved to gorest.log *****
+
+17:23:28[main] INFO  gorest - [
+    {
+        "id": 6006973,
+        "name": "Ujjawal Rana",
+        "email": "ujjawal_rana@koch.test",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 6006972,
+        "name": "Mrs. Durgeshwari Ahuja",
+        "email": "mrs_durgeshwari_ahuja@bergstrom-okon.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 6006968,
+        "name": "Ms. Achintya Khan",
+        "email": "achintya_ms_khan@fahey.test",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 5974977,
+        "name": "Dr. Chandra Nayar",
+        "email": "dr_nayar_chandra@rau.example",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "id": 5974972,
+        "name": "Devajyoti Achari Sr.",
+        "email": "sr_devajyoti_achari@homenick.example",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "id": 5974971,
+        "name": "Yogendra Verma",
+        "email": "verma_yogendra@mosciski.example",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "id": 5974967,
+        "name": "Prof. Anasuya Acharya",
+        "email": "anasuya_prof_acharya@bergstrom-fay.example",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 5974964,
+        "name": "Rev. Sumitra Asan",
+        "email": "asan_rev_sumitra@hermiston.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 5974963,
+        "name": "Akshainie Adiga",
+        "email": "akshainie_adiga@bradtke.test",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 5974962,
+        "name": "Anjushri Gupta",
+        "email": "anjushri_gupta@glover.test",
+        "gender": "male",
+        "status": "active"
+    }
+]
+17:23:28[main] INFO  gorest - Test Case: testGetRequest is passed.
+
+17:23:28[main] INFO  gorest - *****testPatchRequest-- data saved in gorest.log  *****
+
+17:23:28[main] INFO  gorest - {
+    "email": "ronny.doyle@yahoo.com",
+    "name": "Deidra Schamberger",
+    "gender": "male",
+    "status": "active",
+    "id": 6128791
+}
+17:23:28[main] INFO  gorest - Test Case: testPatchRequest is passed.
+
+17:23:29[main] INFO  gorest - *****testDeleteRequest-- data saved in gorest.log  *****
+
+17:23:29[main] INFO  gorest - 
+17:23:29[main] INFO  gorest - Test Case: testDeleteRequest is passed.
+
+17:23:29[main] INFO  gorest - All data is being logged in log file
+
+17:26:34[main] INFO  gorest - *****testPostRequest-- data saved in gorest.log  *****
+
+17:26:34[main] INFO  gorest - {
+    "id": 6128836,
+    "name": "Federico Lakin",
+    "email": "yi.buckridge@yahoo.com",
+    "gender": "male",
+    "status": "inactive"
+}
+17:26:34[main] INFO  gorest - *****testGetRequest User Details Saved to gorest.log *****
+
+17:26:34[main] INFO  gorest - [
+    {
+        "id": 6006973,
+        "name": "Ujjawal Rana",
+        "email": "ujjawal_rana@koch.test",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 6006972,
+        "name": "Mrs. Durgeshwari Ahuja",
+        "email": "mrs_durgeshwari_ahuja@bergstrom-okon.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 6006968,
+        "name": "Ms. Achintya Khan",
+        "email": "achintya_ms_khan@fahey.test",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 5974977,
+        "name": "Dr. Chandra Nayar",
+        "email": "dr_nayar_chandra@rau.example",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "id": 5974972,
+        "name": "Devajyoti Achari Sr.",
+        "email": "sr_devajyoti_achari@homenick.example",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "id": 5974971,
+        "name": "Yogendra Verma",
+        "email": "verma_yogendra@mosciski.example",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "id": 5974967,
+        "name": "Prof. Anasuya Acharya",
+        "email": "anasuya_prof_acharya@bergstrom-fay.example",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 5974964,
+        "name": "Rev. Sumitra Asan",
+        "email": "asan_rev_sumitra@hermiston.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 5974963,
+        "name": "Akshainie Adiga",
+        "email": "akshainie_adiga@bradtke.test",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 5974962,
+        "name": "Anjushri Gupta",
+        "email": "anjushri_gupta@glover.test",
+        "gender": "male",
+        "status": "active"
+    }
+]
+17:26:34[main] INFO  gorest - *****testPatchRequest-- data saved in gorest.log  *****
+
+17:26:34[main] INFO  gorest - {
+    "email": "bula.carroll@hotmail.com",
+    "name": "Federico Lakin",
+    "gender": "male",
+    "status": "active",
+    "id": 6128836
+}
+17:26:35[main] INFO  gorest - *****testDeleteRequest-- data saved in gorest.log  *****
+
+17:26:35[main] INFO  gorest - 

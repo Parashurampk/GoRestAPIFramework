@@ -19,3 +19,6 @@ public class FileUtil {
 
 
 }
+
+//filePath : A String representing the path to the file where the data will be written.
+//data : A String containing the data that will be written to the file.
